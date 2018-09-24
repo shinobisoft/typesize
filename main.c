@@ -41,8 +41,8 @@ int showUsage( void ) {
     puts( "// Copyright \u00A9 2018 ShinobiSoft Software" ); 
     puts( "//////////////////////////////////////////////////////////////////////" ); 
     puts( "" ); 
-    puts( "USAGE: typesize " ); 
-    puts( " OR: typesize " ); 
+    puts( "USAGE: typesize [typename]" ); 
+    puts( " OR: typesize --list" ); 
     puts( "" ); 
     puts( "The following flags are supported: " ); 
     puts( " -h, --help - Prints this screen" ); 
